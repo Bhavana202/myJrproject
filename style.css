@@ -1,0 +1,61 @@
+
+body{
+    margin: 0;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 39%, rgba(200,200,200,1) 71%);
+    font-family:'Barlow ',sans-serif;
+}
+.nav-link{
+    color:hsl(230, 29%, 20%) ;
+     font-family: 'Barlow Condensed',sans-serif;
+     font-weight: 500;
+     margin-left: 30px;
+}
+.nav-link:hover{
+   color:hsl(0, 100%, 68%) ;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+.wrapper{
+    margin: 40px auto;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 39%, rgba(200,200,200,1) 71%);
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 30px 2px rgb(121, 118, 118);
+}
+.txt-box{
+    padding: 30px;
+    margin-top: 10px;
+}
+.txt-box p{
+    color:hsl(231, 7%, 65%) ;
+}
+.txt-box .btn-two{
+    background-color:  hsl(0, 100%, 68%);
+    border: none;
+    color: white;
+    border-radius: 5px;
+
+}
+.txt-box .btn-two:hover{
+    transform: scale(1.2);
+
+}
+/*.txt-box .btn-two:hover{
+    background-color:  hsl(0, 76%, 58%);
+
+}*/
+.txt-box .btn-one{
+    border-radius: 15px;
+
+}
+.img-box{
+    width: 100%;
+    padding: 50px 20px;
+    margin-right: 20px;
+    
+}
+
+   
